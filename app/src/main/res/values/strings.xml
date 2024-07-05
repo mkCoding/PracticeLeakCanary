@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PracticeLeakCanary</string>
+    <string name="leak_canary_test_class_name">assert.Assert</string>
+</resources>
